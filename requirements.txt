@@ -1,0 +1,12 @@
+Flask==1.1.1
+json5==0.9.1
+jsonschema==3.2.0
+matplotlib==3.1.3
+numpy==1.18.1
+pickleshare==0.7.5
+ratelim==0.1.6
+readme-renderer==29.0
+requests==2.22.0
+requests-toolbelt==0.9.1
+scikit-learn==0.22.1
+seaborn==0.10.0
